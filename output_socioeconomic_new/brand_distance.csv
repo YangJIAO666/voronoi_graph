@@ -1,0 +1,1525 @@
+node1,node2,node1_brand,node2_brand,brand_distance
+0,29,99 Speedmart,7-Eleven,1.0
+0,24,99 Speedmart,7-Eleven,1.0
+0,28,99 Speedmart,7-Eleven,1.0
+0,26,99 Speedmart,7-Eleven,1.0
+0,5,99 Speedmart,99 Speedmart,0.5
+1,35,99 Speedmart,MyNews,1.0
+1,13,99 Speedmart,99 Speedmart,0.5
+1,286,99 Speedmart,99 Speedmart,0.5
+1,29,99 Speedmart,7-Eleven,1.0
+1,5,99 Speedmart,99 Speedmart,0.5
+2,243,99 Speedmart,99 Speedmart,0.5
+2,6,99 Speedmart,KK Super Mart,1.0
+2,3,99 Speedmart,99 Speedmart,0.5
+2,17,99 Speedmart,KK Super Mart,1.0
+2,30,99 Speedmart,7-Eleven,1.0
+3,6,99 Speedmart,KK Super Mart,1.0
+3,21,99 Speedmart,Family Mart,1.0
+3,5,99 Speedmart,99 Speedmart,0.5
+3,30,99 Speedmart,7-Eleven,1.0
+4,11,99 Speedmart,99 Speedmart,0.5
+4,24,99 Speedmart,7-Eleven,1.0
+4,34,99 Speedmart,MyNews,1.0
+4,12,99 Speedmart,99 Speedmart,0.5
+4,20,99 Speedmart,7-Eleven,1.0
+4,22,99 Speedmart,Family Mart,1.0
+5,26,99 Speedmart,7-Eleven,1.0
+5,29,99 Speedmart,7-Eleven,1.0
+5,35,99 Speedmart,MyNews,1.0
+5,27,99 Speedmart,7-Eleven,1.0
+5,21,99 Speedmart,Family Mart,1.0
+5,17,99 Speedmart,KK Super Mart,1.0
+5,30,99 Speedmart,7-Eleven,1.0
+6,243,KK Super Mart,99 Speedmart,1.0
+6,21,KK Super Mart,Family Mart,1.0
+6,10,KK Super Mart,99 Speedmart,1.0
+7,16,99 Speedmart,KK Super Mart,1.0
+7,56,99 Speedmart,99 Speedmart,0.5
+7,25,99 Speedmart,7-Eleven,1.0
+7,10,99 Speedmart,99 Speedmart,0.5
+7,131,99 Speedmart,MyNews,1.0
+7,134,99 Speedmart,MyNews,1.0
+8,56,99 Speedmart,99 Speedmart,0.5
+8,59,99 Speedmart,99 Speedmart,0.5
+8,34,99 Speedmart,MyNews,1.0
+8,16,99 Speedmart,KK Super Mart,1.0
+8,26,99 Speedmart,7-Eleven,1.0
+8,28,99 Speedmart,7-Eleven,1.0
+9,143,99 Speedmart,99 Speedmart,0.5
+9,361,99 Speedmart,7-Eleven,1.0
+9,339,99 Speedmart,99 Speedmart,0.5
+9,50,99 Speedmart,99 Speedmart,0.5
+9,91,99 Speedmart,Family Mart,1.0
+9,81,99 Speedmart,KK Super Mart,1.0
+9,20,99 Speedmart,7-Eleven,1.0
+9,152,99 Speedmart,Family Mart,1.0
+10,243,99 Speedmart,99 Speedmart,0.5
+10,21,99 Speedmart,Family Mart,1.0
+10,25,99 Speedmart,7-Eleven,1.0
+10,261,99 Speedmart,KK Super Mart,1.0
+10,240,99 Speedmart,99 Speedmart,0.5
+10,134,99 Speedmart,MyNews,1.0
+10,132,99 Speedmart,MyNews,1.0
+11,24,99 Speedmart,7-Eleven,1.0
+11,12,99 Speedmart,99 Speedmart,0.5
+11,324,99 Speedmart,7-Eleven,1.0
+11,29,99 Speedmart,7-Eleven,1.0
+12,155,99 Speedmart,7-Eleven,1.0
+12,324,99 Speedmart,7-Eleven,1.0
+12,20,99 Speedmart,7-Eleven,1.0
+12,152,99 Speedmart,Family Mart,1.0
+12,169,99 Speedmart,CU,1.0
+13,289,99 Speedmart,99 Speedmart,0.5
+13,331,99 Speedmart,7-Eleven,1.0
+13,35,99 Speedmart,MyNews,1.0
+13,245,99 Speedmart,99 Speedmart,0.5
+13,14,99 Speedmart,99 Speedmart,0.5
+13,286,99 Speedmart,99 Speedmart,0.5
+14,301,99 Speedmart,99 Speedmart,0.5
+14,289,99 Speedmart,99 Speedmart,0.5
+14,31,99 Speedmart,7-Eleven,1.0
+14,18,99 Speedmart,KK Super Mart,1.0
+14,15,99 Speedmart,99 Speedmart,0.5
+14,23,99 Speedmart,Family Mart,1.0
+15,306,99 Speedmart,99 Speedmart,0.5
+15,31,99 Speedmart,7-Eleven,1.0
+15,36,99 Speedmart,MyNews,1.0
+15,23,99 Speedmart,Family Mart,1.0
+15,33,99 Speedmart,7-Eleven,1.0
+16,56,KK Super Mart,99 Speedmart,1.0
+16,26,KK Super Mart,7-Eleven,1.0
+16,25,KK Super Mart,7-Eleven,1.0
+17,27,KK Super Mart,7-Eleven,1.0
+17,243,KK Super Mart,99 Speedmart,1.0
+17,30,KK Super Mart,7-Eleven,1.0
+18,31,KK Super Mart,7-Eleven,1.0
+19,298,KK Super Mart,99 Speedmart,1.0
+19,326,KK Super Mart,7-Eleven,1.0
+19,300,KK Super Mart,99 Speedmart,1.0
+19,325,KK Super Mart,7-Eleven,1.0
+19,292,KK Super Mart,99 Speedmart,1.0
+19,32,KK Super Mart,7-Eleven,1.0
+20,22,7-Eleven,Family Mart,1.0
+20,81,7-Eleven,KK Super Mart,1.0
+20,152,7-Eleven,Family Mart,1.0
+21,25,Family Mart,7-Eleven,1.0
+21,26,Family Mart,7-Eleven,1.0
+22,34,Family Mart,MyNews,1.0
+22,81,Family Mart,KK Super Mart,1.0
+23,301,Family Mart,99 Speedmart,1.0
+23,292,Family Mart,99 Speedmart,1.0
+23,33,Family Mart,7-Eleven,1.0
+23,326,Family Mart,7-Eleven,1.0
+23,32,Family Mart,7-Eleven,1.0
+24,34,7-Eleven,MyNews,1.0
+24,29,7-Eleven,7-Eleven,0.5
+24,28,7-Eleven,7-Eleven,0.5
+25,26,7-Eleven,7-Eleven,0.5
+26,28,7-Eleven,7-Eleven,0.5
+27,35,7-Eleven,MyNews,1.0
+27,245,7-Eleven,99 Speedmart,1.0
+27,271,7-Eleven,7-Eleven,0.5
+27,243,7-Eleven,99 Speedmart,1.0
+28,34,7-Eleven,MyNews,1.0
+29,286,7-Eleven,99 Speedmart,1.0
+29,324,7-Eleven,7-Eleven,0.5
+32,326,7-Eleven,7-Eleven,0.5
+32,292,7-Eleven,99 Speedmart,1.0
+33,36,7-Eleven,MyNews,1.0
+33,326,7-Eleven,7-Eleven,0.5
+34,59,MyNews,99 Speedmart,1.0
+34,81,MyNews,KK Super Mart,1.0
+35,245,MyNews,99 Speedmart,1.0
+36,326,MyNews,7-Eleven,1.0
+36,306,MyNews,99 Speedmart,1.0
+37,91,99 Speedmart,Family Mart,1.0
+37,64,99 Speedmart,99 Speedmart,0.5
+37,81,99 Speedmart,KK Super Mart,1.0
+37,59,99 Speedmart,99 Speedmart,0.5
+37,120,99 Speedmart,7-Eleven,1.0
+37,43,99 Speedmart,99 Speedmart,0.5
+38,115,99 Speedmart,7-Eleven,1.0
+38,129,99 Speedmart,7-Eleven,1.0
+38,113,99 Speedmart,7-Eleven,1.0
+38,46,99 Speedmart,99 Speedmart,0.5
+38,83,99 Speedmart,KK Super Mart,1.0
+39,134,99 Speedmart,MyNews,1.0
+39,131,99 Speedmart,MyNews,1.0
+39,83,99 Speedmart,KK Super Mart,1.0
+39,92,99 Speedmart,Family Mart,1.0
+39,123,99 Speedmart,7-Eleven,1.0
+39,142,99 Speedmart,CU,1.0
+40,119,99 Speedmart,7-Eleven,1.0
+40,42,99 Speedmart,99 Speedmart,0.5
+40,79,99 Speedmart,KK Super Mart,1.0
+40,107,99 Speedmart,7-Eleven,1.0
+40,95,99 Speedmart,7-Eleven,1.0
+40,86,99 Speedmart,Family Mart,1.0
+40,133,99 Speedmart,MyNews,1.0
+40,60,99 Speedmart,99 Speedmart,0.5
+40,41,99 Speedmart,99 Speedmart,0.5
+40,122,99 Speedmart,7-Eleven,1.0
+41,42,99 Speedmart,99 Speedmart,0.5
+41,138,99 Speedmart,MyNews,1.0
+41,84,99 Speedmart,KK Super Mart,1.0
+41,107,99 Speedmart,7-Eleven,1.0
+42,118,99 Speedmart,7-Eleven,1.0
+42,117,99 Speedmart,7-Eleven,1.0
+42,119,99 Speedmart,7-Eleven,1.0
+42,138,99 Speedmart,MyNews,1.0
+43,59,99 Speedmart,99 Speedmart,0.5
+43,120,99 Speedmart,7-Eleven,1.0
+43,55,99 Speedmart,99 Speedmart,0.5
+43,45,99 Speedmart,99 Speedmart,0.5
+43,100,99 Speedmart,7-Eleven,1.0
+44,105,99 Speedmart,7-Eleven,1.0
+44,125,99 Speedmart,7-Eleven,1.0
+44,61,99 Speedmart,99 Speedmart,0.5
+44,104,99 Speedmart,7-Eleven,1.0
+44,48,99 Speedmart,99 Speedmart,0.5
+45,129,99 Speedmart,7-Eleven,1.0
+45,59,99 Speedmart,99 Speedmart,0.5
+45,113,99 Speedmart,7-Eleven,1.0
+45,89,99 Speedmart,Family Mart,1.0
+45,141,99 Speedmart,CU,1.0
+45,102,99 Speedmart,7-Eleven,1.0
+45,100,99 Speedmart,7-Eleven,1.0
+46,113,99 Speedmart,7-Eleven,1.0
+46,136,99 Speedmart,MyNews,1.0
+46,106,99 Speedmart,7-Eleven,1.0
+46,83,99 Speedmart,KK Super Mart,1.0
+47,90,99 Speedmart,Family Mart,1.0
+47,78,99 Speedmart,KK Super Mart,1.0
+47,119,99 Speedmart,7-Eleven,1.0
+47,64,99 Speedmart,99 Speedmart,0.5
+47,85,99 Speedmart,KK Super Mart,1.0
+48,95,99 Speedmart,7-Eleven,1.0
+48,104,99 Speedmart,7-Eleven,1.0
+48,139,99 Speedmart,MyNews,1.0
+48,61,99 Speedmart,99 Speedmart,0.5
+49,110,99 Speedmart,7-Eleven,1.0
+49,85,99 Speedmart,KK Super Mart,1.0
+49,78,99 Speedmart,KK Super Mart,1.0
+49,116,99 Speedmart,7-Eleven,1.0
+49,182,99 Speedmart,7-Eleven,1.0
+50,91,99 Speedmart,Family Mart,1.0
+50,110,99 Speedmart,7-Eleven,1.0
+50,339,99 Speedmart,99 Speedmart,0.5
+51,66,99 Speedmart,99 Speedmart,0.5
+51,58,99 Speedmart,99 Speedmart,0.5
+51,80,99 Speedmart,KK Super Mart,1.0
+51,101,99 Speedmart,7-Eleven,1.0
+51,97,99 Speedmart,7-Eleven,1.0
+52,125,99 Speedmart,7-Eleven,1.0
+52,104,99 Speedmart,7-Eleven,1.0
+52,108,99 Speedmart,7-Eleven,1.0
+52,77,99 Speedmart,KK Super Mart,1.0
+53,242,99 Speedmart,99 Speedmart,0.5
+53,101,99 Speedmart,7-Eleven,1.0
+53,121,99 Speedmart,7-Eleven,1.0
+53,58,99 Speedmart,99 Speedmart,0.5
+53,103,99 Speedmart,7-Eleven,1.0
+53,246,99 Speedmart,99 Speedmart,0.5
+53,76,99 Speedmart,KK Super Mart,1.0
+53,99,99 Speedmart,7-Eleven,1.0
+53,97,99 Speedmart,7-Eleven,1.0
+54,107,99 Speedmart,7-Eleven,1.0
+54,96,99 Speedmart,7-Eleven,1.0
+54,95,99 Speedmart,7-Eleven,1.0
+54,124,99 Speedmart,7-Eleven,1.0
+55,120,99 Speedmart,7-Eleven,1.0
+55,64,99 Speedmart,99 Speedmart,0.5
+55,79,99 Speedmart,KK Super Mart,1.0
+55,100,99 Speedmart,7-Eleven,1.0
+55,65,99 Speedmart,99 Speedmart,0.5
+56,59,99 Speedmart,99 Speedmart,0.5
+56,115,99 Speedmart,7-Eleven,1.0
+56,131,99 Speedmart,MyNews,1.0
+56,137,99 Speedmart,MyNews,1.0
+57,130,99 Speedmart,MyNews,1.0
+57,70,99 Speedmart,99 Speedmart,0.5
+57,67,99 Speedmart,99 Speedmart,0.5
+57,96,99 Speedmart,7-Eleven,1.0
+57,124,99 Speedmart,7-Eleven,1.0
+58,121,99 Speedmart,7-Eleven,1.0
+58,66,99 Speedmart,99 Speedmart,0.5
+58,97,99 Speedmart,7-Eleven,1.0
+59,115,99 Speedmart,7-Eleven,1.0
+59,81,99 Speedmart,KK Super Mart,1.0
+59,129,99 Speedmart,7-Eleven,1.0
+60,100,99 Speedmart,7-Eleven,1.0
+60,133,99 Speedmart,MyNews,1.0
+60,79,99 Speedmart,KK Super Mart,1.0
+60,122,99 Speedmart,7-Eleven,1.0
+61,273,99 Speedmart,7-Eleven,1.0
+61,126,99 Speedmart,7-Eleven,1.0
+61,105,99 Speedmart,7-Eleven,1.0
+61,139,99 Speedmart,MyNews,1.0
+62,69,99 Speedmart,99 Speedmart,0.5
+62,88,99 Speedmart,Family Mart,1.0
+62,68,99 Speedmart,99 Speedmart,0.5
+62,76,99 Speedmart,KK Super Mart,1.0
+63,135,99 Speedmart,MyNews,1.0
+63,73,99 Speedmart,99 Speedmart,0.5
+63,71,99 Speedmart,99 Speedmart,0.5
+63,117,99 Speedmart,7-Eleven,1.0
+63,67,99 Speedmart,99 Speedmart,0.5
+63,138,99 Speedmart,MyNews,1.0
+64,91,99 Speedmart,Family Mart,1.0
+64,85,99 Speedmart,KK Super Mart,1.0
+64,120,99 Speedmart,7-Eleven,1.0
+64,119,99 Speedmart,7-Eleven,1.0
+64,65,99 Speedmart,99 Speedmart,0.5
+65,119,99 Speedmart,7-Eleven,1.0
+65,79,99 Speedmart,KK Super Mart,1.0
+66,121,99 Speedmart,7-Eleven,1.0
+66,109,99 Speedmart,7-Eleven,1.0
+66,136,99 Speedmart,MyNews,1.0
+66,89,99 Speedmart,Family Mart,1.0
+66,141,99 Speedmart,CU,1.0
+66,105,99 Speedmart,7-Eleven,1.0
+66,98,99 Speedmart,7-Eleven,1.0
+66,80,99 Speedmart,KK Super Mart,1.0
+66,87,99 Speedmart,Family Mart,1.0
+66,82,99 Speedmart,KK Super Mart,1.0
+66,241,99 Speedmart,99 Speedmart,0.5
+67,135,99 Speedmart,MyNews,1.0
+67,130,99 Speedmart,MyNews,1.0
+67,96,99 Speedmart,7-Eleven,1.0
+67,138,99 Speedmart,MyNews,1.0
+68,267,99 Speedmart,7-Eleven,1.0
+68,246,99 Speedmart,99 Speedmart,0.5
+68,103,99 Speedmart,7-Eleven,1.0
+68,69,99 Speedmart,99 Speedmart,0.5
+68,248,99 Speedmart,99 Speedmart,0.5
+68,263,99 Speedmart,KK Super Mart,1.0
+68,76,99 Speedmart,KK Super Mart,1.0
+69,248,99 Speedmart,99 Speedmart,0.5
+69,273,99 Speedmart,7-Eleven,1.0
+69,88,99 Speedmart,Family Mart,1.0
+69,121,99 Speedmart,7-Eleven,1.0
+70,130,99 Speedmart,MyNews,1.0
+70,273,99 Speedmart,7-Eleven,1.0
+70,126,99 Speedmart,7-Eleven,1.0
+70,94,99 Speedmart,7-Eleven,1.0
+70,124,99 Speedmart,7-Eleven,1.0
+71,140,99 Speedmart,MyNews,1.0
+71,117,99 Speedmart,7-Eleven,1.0
+71,127,99 Speedmart,7-Eleven,1.0
+71,73,99 Speedmart,99 Speedmart,0.5
+72,112,99 Speedmart,7-Eleven,1.0
+72,140,99 Speedmart,MyNews,1.0
+72,111,99 Speedmart,7-Eleven,1.0
+72,127,99 Speedmart,7-Eleven,1.0
+73,196,99 Speedmart,99 Speedmart,0.5
+73,75,99 Speedmart,99 Speedmart,0.5
+73,220,99 Speedmart,Family Mart,1.0
+73,74,99 Speedmart,99 Speedmart,0.5
+73,114,99 Speedmart,7-Eleven,1.0
+73,130,99 Speedmart,MyNews,1.0
+73,127,99 Speedmart,7-Eleven,1.0
+73,135,99 Speedmart,MyNews,1.0
+74,220,99 Speedmart,Family Mart,1.0
+74,225,99 Speedmart,7-Eleven,1.0
+74,172,99 Speedmart,99 Speedmart,0.5
+74,114,99 Speedmart,7-Eleven,1.0
+74,170,99 Speedmart,99 Speedmart,0.5
+74,128,99 Speedmart,7-Eleven,1.0
+74,93,99 Speedmart,Family Mart,1.0
+75,196,99 Speedmart,99 Speedmart,0.5
+75,130,99 Speedmart,MyNews,1.0
+76,103,KK Super Mart,7-Eleven,1.0
+76,88,KK Super Mart,Family Mart,1.0
+76,121,KK Super Mart,7-Eleven,1.0
+77,95,KK Super Mart,7-Eleven,1.0
+77,104,KK Super Mart,7-Eleven,1.0
+77,86,KK Super Mart,Family Mart,1.0
+77,108,KK Super Mart,7-Eleven,1.0
+78,85,KK Super Mart,KK Super Mart,0.5
+78,116,KK Super Mart,7-Eleven,1.0
+78,90,KK Super Mart,Family Mart,1.0
+79,100,KK Super Mart,7-Eleven,1.0
+79,119,KK Super Mart,7-Eleven,1.0
+79,122,KK Super Mart,7-Eleven,1.0
+80,101,KK Super Mart,7-Eleven,1.0
+80,262,KK Super Mart,KK Super Mart,0.5
+80,241,KK Super Mart,99 Speedmart,1.0
+81,91,KK Super Mart,Family Mart,1.0
+82,100,KK Super Mart,7-Eleven,1.0
+82,98,KK Super Mart,7-Eleven,1.0
+82,102,KK Super Mart,7-Eleven,1.0
+82,141,KK Super Mart,CU,1.0
+83,115,KK Super Mart,7-Eleven,1.0
+83,131,KK Super Mart,MyNews,1.0
+83,106,KK Super Mart,7-Eleven,1.0
+83,109,KK Super Mart,7-Eleven,1.0
+83,137,KK Super Mart,MyNews,1.0
+83,142,KK Super Mart,CU,1.0
+84,107,KK Super Mart,7-Eleven,1.0
+84,96,KK Super Mart,7-Eleven,1.0
+84,138,KK Super Mart,MyNews,1.0
+85,110,KK Super Mart,7-Eleven,1.0
+85,91,KK Super Mart,Family Mart,1.0
+86,108,Family Mart,7-Eleven,1.0
+86,133,Family Mart,MyNews,1.0
+86,95,Family Mart,7-Eleven,1.0
+87,109,Family Mart,7-Eleven,1.0
+87,240,Family Mart,99 Speedmart,1.0
+87,262,Family Mart,KK Super Mart,1.0
+87,132,Family Mart,MyNews,1.0
+87,241,Family Mart,99 Speedmart,1.0
+87,275,Family Mart,7-Eleven,1.0
+88,121,Family Mart,7-Eleven,1.0
+89,113,Family Mart,7-Eleven,1.0
+89,141,Family Mart,CU,1.0
+89,136,Family Mart,MyNews,1.0
+90,116,Family Mart,7-Eleven,1.0
+90,118,Family Mart,7-Eleven,1.0
+90,119,Family Mart,7-Eleven,1.0
+91,110,Family Mart,7-Eleven,1.0
+92,134,Family Mart,MyNews,1.0
+92,123,Family Mart,7-Eleven,1.0
+92,132,Family Mart,MyNews,1.0
+93,112,Family Mart,7-Eleven,1.0
+93,128,Family Mart,7-Eleven,1.0
+93,114,Family Mart,7-Eleven,1.0
+94,126,7-Eleven,7-Eleven,0.5
+94,124,7-Eleven,7-Eleven,0.5
+95,104,7-Eleven,7-Eleven,0.5
+95,107,7-Eleven,7-Eleven,0.5
+95,124,7-Eleven,7-Eleven,0.5
+95,139,7-Eleven,MyNews,1.0
+96,107,7-Eleven,7-Eleven,0.5
+96,138,7-Eleven,MyNews,1.0
+96,124,7-Eleven,7-Eleven,0.5
+97,101,7-Eleven,7-Eleven,0.5
+98,105,7-Eleven,7-Eleven,0.5
+98,100,7-Eleven,7-Eleven,0.5
+99,242,7-Eleven,99 Speedmart,1.0
+99,276,7-Eleven,7-Eleven,0.5
+99,246,7-Eleven,99 Speedmart,1.0
+100,125,7-Eleven,7-Eleven,0.5
+100,133,7-Eleven,MyNews,1.0
+100,105,7-Eleven,7-Eleven,0.5
+100,102,7-Eleven,7-Eleven,0.5
+101,242,7-Eleven,99 Speedmart,1.0
+101,262,7-Eleven,KK Super Mart,1.0
+102,141,7-Eleven,CU,1.0
+103,246,7-Eleven,99 Speedmart,1.0
+104,125,7-Eleven,7-Eleven,0.5
+105,121,7-Eleven,7-Eleven,0.5
+105,125,7-Eleven,7-Eleven,0.5
+105,273,7-Eleven,7-Eleven,0.5
+106,136,7-Eleven,MyNews,1.0
+106,109,7-Eleven,7-Eleven,0.5
+108,133,7-Eleven,MyNews,1.0
+108,125,7-Eleven,7-Eleven,0.5
+109,136,7-Eleven,MyNews,1.0
+109,132,7-Eleven,MyNews,1.0
+109,123,7-Eleven,7-Eleven,0.5
+109,142,7-Eleven,CU,1.0
+110,182,7-Eleven,7-Eleven,0.5
+110,339,7-Eleven,99 Speedmart,1.0
+111,112,7-Eleven,7-Eleven,0.5
+111,114,7-Eleven,7-Eleven,0.5
+111,127,7-Eleven,7-Eleven,0.5
+112,140,7-Eleven,MyNews,1.0
+112,128,7-Eleven,7-Eleven,0.5
+112,114,7-Eleven,7-Eleven,0.5
+113,129,7-Eleven,7-Eleven,0.5
+113,136,7-Eleven,MyNews,1.0
+114,127,7-Eleven,7-Eleven,0.5
+115,129,7-Eleven,7-Eleven,0.5
+115,137,7-Eleven,MyNews,1.0
+116,140,7-Eleven,MyNews,1.0
+116,117,7-Eleven,7-Eleven,0.5
+116,118,7-Eleven,7-Eleven,0.5
+116,182,7-Eleven,7-Eleven,0.5
+116,183,7-Eleven,7-Eleven,0.5
+116,170,7-Eleven,99 Speedmart,1.0
+117,140,7-Eleven,MyNews,1.0
+117,118,7-Eleven,7-Eleven,0.5
+117,138,7-Eleven,MyNews,1.0
+118,119,7-Eleven,7-Eleven,0.5
+121,273,7-Eleven,7-Eleven,0.5
+123,132,7-Eleven,MyNews,1.0
+123,142,7-Eleven,CU,1.0
+124,126,7-Eleven,7-Eleven,0.5
+124,139,7-Eleven,MyNews,1.0
+125,133,7-Eleven,MyNews,1.0
+126,273,7-Eleven,7-Eleven,0.5
+126,139,7-Eleven,MyNews,1.0
+127,140,7-Eleven,MyNews,1.0
+128,140,7-Eleven,MyNews,1.0
+128,170,7-Eleven,99 Speedmart,1.0
+130,135,MyNews,MyNews,0.5
+131,134,MyNews,MyNews,0.5
+131,137,MyNews,MyNews,0.5
+132,240,MyNews,99 Speedmart,1.0
+132,134,MyNews,MyNews,0.5
+140,170,MyNews,99 Speedmart,1.0
+143,361,99 Speedmart,7-Eleven,1.0
+143,353,99 Speedmart,KK Super Mart,1.0
+143,162,99 Speedmart,7-Eleven,1.0
+143,150,99 Speedmart,KK Super Mart,1.0
+143,152,99 Speedmart,Family Mart,1.0
+144,163,99 Speedmart,7-Eleven,1.0
+144,149,99 Speedmart,KK Super Mart,1.0
+144,161,99 Speedmart,7-Eleven,1.0
+144,146,99 Speedmart,99 Speedmart,0.5
+144,153,99 Speedmart,Family Mart,1.0
+145,155,99 Speedmart,7-Eleven,1.0
+145,148,99 Speedmart,KK Super Mart,1.0
+145,146,99 Speedmart,99 Speedmart,0.5
+145,166,99 Speedmart,MyNews,1.0
+146,148,99 Speedmart,KK Super Mart,1.0
+146,524,99 Speedmart,7-Eleven,1.0
+146,156,99 Speedmart,7-Eleven,1.0
+146,158,99 Speedmart,7-Eleven,1.0
+146,163,99 Speedmart,7-Eleven,1.0
+146,153,99 Speedmart,Family Mart,1.0
+146,166,99 Speedmart,MyNews,1.0
+147,167,99 Speedmart,MyNews,1.0
+147,165,99 Speedmart,MyNews,1.0
+147,352,99 Speedmart,KK Super Mart,1.0
+147,164,99 Speedmart,7-Eleven,1.0
+147,156,99 Speedmart,7-Eleven,1.0
+147,157,99 Speedmart,7-Eleven,1.0
+147,158,99 Speedmart,7-Eleven,1.0
+148,155,KK Super Mart,7-Eleven,1.0
+148,287,KK Super Mart,99 Speedmart,1.0
+148,524,KK Super Mart,7-Eleven,1.0
+148,295,KK Super Mart,99 Speedmart,1.0
+149,358,KK Super Mart,Family Mart,1.0
+149,347,KK Super Mart,99 Speedmart,1.0
+149,163,KK Super Mart,7-Eleven,1.0
+149,154,KK Super Mart,Family Mart,1.0
+149,157,KK Super Mart,7-Eleven,1.0
+149,161,KK Super Mart,7-Eleven,1.0
+150,162,KK Super Mart,7-Eleven,1.0
+150,161,KK Super Mart,7-Eleven,1.0
+150,152,KK Super Mart,Family Mart,1.0
+150,153,KK Super Mart,Family Mart,1.0
+150,166,KK Super Mart,MyNews,1.0
+151,160,KK Super Mart,7-Eleven,1.0
+151,383,KK Super Mart,99 Speedmart,1.0
+151,168,KK Super Mart,MyNews,1.0
+151,525,KK Super Mart,MyNews,1.0
+152,166,Family Mart,MyNews,1.0
+152,169,Family Mart,CU,1.0
+153,161,Family Mart,7-Eleven,1.0
+153,166,Family Mart,MyNews,1.0
+154,163,Family Mart,7-Eleven,1.0
+154,157,Family Mart,7-Eleven,1.0
+154,158,Family Mart,7-Eleven,1.0
+155,287,7-Eleven,99 Speedmart,1.0
+155,324,7-Eleven,7-Eleven,0.5
+155,166,7-Eleven,MyNews,1.0
+155,169,7-Eleven,CU,1.0
+156,523,7-Eleven,7-Eleven,0.5
+156,164,7-Eleven,7-Eleven,0.5
+156,516,7-Eleven,99 Speedmart,1.0
+156,524,7-Eleven,7-Eleven,0.5
+156,158,7-Eleven,7-Eleven,0.5
+157,352,7-Eleven,KK Super Mart,1.0
+157,358,7-Eleven,Family Mart,1.0
+157,158,7-Eleven,7-Eleven,0.5
+158,163,7-Eleven,7-Eleven,0.5
+159,160,7-Eleven,7-Eleven,0.5
+159,164,7-Eleven,7-Eleven,0.5
+159,165,7-Eleven,MyNews,1.0
+159,403,7-Eleven,Family Mart,1.0
+159,428,7-Eleven,MyNews,1.0
+159,430,7-Eleven,MyNews,1.0
+160,168,7-Eleven,MyNews,1.0
+160,164,7-Eleven,7-Eleven,0.5
+160,383,7-Eleven,99 Speedmart,1.0
+160,403,7-Eleven,Family Mart,1.0
+161,347,7-Eleven,99 Speedmart,1.0
+161,162,7-Eleven,7-Eleven,0.5
+162,347,7-Eleven,99 Speedmart,1.0
+162,353,7-Eleven,KK Super Mart,1.0
+164,523,7-Eleven,7-Eleven,0.5
+164,168,7-Eleven,MyNews,1.0
+164,165,7-Eleven,MyNews,1.0
+165,167,MyNews,MyNews,0.5
+165,428,MyNews,MyNews,0.5
+166,169,MyNews,CU,1.0
+167,352,MyNews,KK Super Mart,1.0
+167,372,MyNews,CU,1.0
+167,427,MyNews,MyNews,0.5
+167,428,MyNews,MyNews,0.5
+168,523,MyNews,7-Eleven,1.0
+170,183,99 Speedmart,7-Eleven,1.0
+170,172,99 Speedmart,99 Speedmart,0.5
+170,186,99 Speedmart,7-Eleven,1.0
+170,171,99 Speedmart,99 Speedmart,0.5
+170,177,99 Speedmart,99 Speedmart,0.5
+170,174,99 Speedmart,99 Speedmart,0.5
+171,191,99 Speedmart,7-Eleven,1.0
+171,186,99 Speedmart,7-Eleven,1.0
+171,177,99 Speedmart,99 Speedmart,0.5
+171,173,99 Speedmart,99 Speedmart,0.5
+172,225,99 Speedmart,7-Eleven,1.0
+172,186,99 Speedmart,7-Eleven,1.0
+172,188,99 Speedmart,7-Eleven,1.0
+173,191,99 Speedmart,7-Eleven,1.0
+173,187,99 Speedmart,7-Eleven,1.0
+173,177,99 Speedmart,99 Speedmart,0.5
+173,185,99 Speedmart,7-Eleven,1.0
+173,408,99 Speedmart,7-Eleven,1.0
+173,192,99 Speedmart,MyNews,1.0
+174,177,99 Speedmart,99 Speedmart,0.5
+174,183,99 Speedmart,7-Eleven,1.0
+174,190,99 Speedmart,7-Eleven,1.0
+174,178,99 Speedmart,KK Super Mart,1.0
+175,194,99 Speedmart,CU,1.0
+175,377,99 Speedmart,99 Speedmart,0.5
+175,176,99 Speedmart,99 Speedmart,0.5
+175,178,99 Speedmart,KK Super Mart,1.0
+175,185,99 Speedmart,7-Eleven,1.0
+175,408,99 Speedmart,7-Eleven,1.0
+175,374,99 Speedmart,99 Speedmart,0.5
+176,194,99 Speedmart,CU,1.0
+176,366,99 Speedmart,7-Eleven,1.0
+176,355,99 Speedmart,Family Mart,1.0
+176,178,99 Speedmart,KK Super Mart,1.0
+177,178,99 Speedmart,KK Super Mart,1.0
+177,187,99 Speedmart,7-Eleven,1.0
+177,185,99 Speedmart,7-Eleven,1.0
+178,355,KK Super Mart,Family Mart,1.0
+178,190,KK Super Mart,7-Eleven,1.0
+178,185,KK Super Mart,7-Eleven,1.0
+179,376,KK Super Mart,99 Speedmart,1.0
+179,398,KK Super Mart,KK Super Mart,0.5
+179,184,KK Super Mart,7-Eleven,1.0
+179,375,KK Super Mart,99 Speedmart,1.0
+179,180,KK Super Mart,Family Mart,1.0
+179,192,KK Super Mart,MyNews,1.0
+180,184,Family Mart,7-Eleven,1.0
+180,189,Family Mart,7-Eleven,1.0
+180,192,Family Mart,MyNews,1.0
+181,193,Family Mart,MyNews,1.0
+181,377,Family Mart,99 Speedmart,1.0
+181,194,Family Mart,CU,1.0
+181,366,Family Mart,7-Eleven,1.0
+182,183,7-Eleven,7-Eleven,0.5
+182,363,7-Eleven,7-Eleven,0.5
+182,360,7-Eleven,7-Eleven,0.5
+182,342,7-Eleven,99 Speedmart,1.0
+182,339,7-Eleven,99 Speedmart,1.0
+182,340,7-Eleven,99 Speedmart,1.0
+183,340,7-Eleven,99 Speedmart,1.0
+183,190,7-Eleven,7-Eleven,0.5
+184,191,7-Eleven,7-Eleven,0.5
+184,398,7-Eleven,KK Super Mart,1.0
+184,189,7-Eleven,7-Eleven,0.5
+185,187,7-Eleven,7-Eleven,0.5
+185,408,7-Eleven,7-Eleven,0.5
+186,191,7-Eleven,7-Eleven,0.5
+186,188,7-Eleven,7-Eleven,0.5
+188,221,7-Eleven,Family Mart,1.0
+188,191,7-Eleven,7-Eleven,0.5
+188,225,7-Eleven,7-Eleven,0.5
+189,191,7-Eleven,7-Eleven,0.5
+189,192,7-Eleven,MyNews,1.0
+190,340,7-Eleven,99 Speedmart,1.0
+190,355,7-Eleven,Family Mart,1.0
+191,221,7-Eleven,Family Mart,1.0
+191,398,7-Eleven,KK Super Mart,1.0
+191,192,7-Eleven,MyNews,1.0
+192,375,MyNews,99 Speedmart,1.0
+192,408,MyNews,7-Eleven,1.0
+193,380,MyNews,99 Speedmart,1.0
+193,377,MyNews,99 Speedmart,1.0
+193,366,MyNews,7-Eleven,1.0
+193,343,MyNews,99 Speedmart,1.0
+194,377,CU,99 Speedmart,1.0
+194,366,CU,7-Eleven,1.0
+195,220,99 Speedmart,Family Mart,1.0
+195,225,99 Speedmart,7-Eleven,1.0
+195,236,99 Speedmart,MyNews,1.0
+196,220,99 Speedmart,Family Mart,1.0
+196,198,99 Speedmart,99 Speedmart,0.5
+196,236,99 Speedmart,MyNews,1.0
+196,213,99 Speedmart,KK Super Mart,1.0
+196,230,99 Speedmart,7-Eleven,1.0
+196,199,99 Speedmart,99 Speedmart,0.5
+197,227,99 Speedmart,7-Eleven,1.0
+197,200,99 Speedmart,99 Speedmart,0.5
+197,230,99 Speedmart,7-Eleven,1.0
+197,226,99 Speedmart,7-Eleven,1.0
+197,217,99 Speedmart,KK Super Mart,1.0
+197,205,99 Speedmart,99 Speedmart,0.5
+198,515,99 Speedmart,99 Speedmart,0.5
+198,200,99 Speedmart,99 Speedmart,0.5
+198,213,99 Speedmart,KK Super Mart,1.0
+199,213,99 Speedmart,KK Super Mart,1.0
+199,227,99 Speedmart,7-Eleven,1.0
+199,230,99 Speedmart,7-Eleven,1.0
+200,515,99 Speedmart,99 Speedmart,0.5
+200,470,99 Speedmart,Family Mart,1.0
+200,439,99 Speedmart,99 Speedmart,0.5
+200,434,99 Speedmart,99 Speedmart,0.5
+200,207,99 Speedmart,99 Speedmart,0.5
+200,227,99 Speedmart,7-Eleven,1.0
+200,213,99 Speedmart,KK Super Mart,1.0
+200,217,99 Speedmart,KK Super Mart,1.0
+201,231,99 Speedmart,7-Eleven,1.0
+201,209,99 Speedmart,99 Speedmart,0.5
+201,206,99 Speedmart,99 Speedmart,0.5
+201,218,99 Speedmart,KK Super Mart,1.0
+201,234,99 Speedmart,7-Eleven,1.0
+201,397,99 Speedmart,KK Super Mart,1.0
+202,413,99 Speedmart,7-Eleven,1.0
+202,206,99 Speedmart,99 Speedmart,0.5
+202,229,99 Speedmart,7-Eleven,1.0
+202,214,99 Speedmart,KK Super Mart,1.0
+203,228,99 Speedmart,7-Eleven,1.0
+203,216,99 Speedmart,KK Super Mart,1.0
+203,208,99 Speedmart,99 Speedmart,0.5
+203,215,99 Speedmart,KK Super Mart,1.0
+203,404,99 Speedmart,Family Mart,1.0
+204,221,99 Speedmart,Family Mart,1.0
+204,226,99 Speedmart,7-Eleven,1.0
+204,237,99 Speedmart,MyNews,1.0
+204,215,99 Speedmart,KK Super Mart,1.0
+204,205,99 Speedmart,99 Speedmart,0.5
+205,217,99 Speedmart,KK Super Mart,1.0
+205,215,99 Speedmart,KK Super Mart,1.0
+205,226,99 Speedmart,7-Eleven,1.0
+205,232,99 Speedmart,7-Eleven,1.0
+206,231,99 Speedmart,7-Eleven,1.0
+206,207,99 Speedmart,99 Speedmart,0.5
+206,222,99 Speedmart,Family Mart,1.0
+206,413,99 Speedmart,7-Eleven,1.0
+206,397,99 Speedmart,KK Super Mart,1.0
+206,214,99 Speedmart,KK Super Mart,1.0
+207,434,99 Speedmart,99 Speedmart,0.5
+207,235,99 Speedmart,7-Eleven,1.0
+207,478,99 Speedmart,7-Eleven,1.0
+207,231,99 Speedmart,7-Eleven,1.0
+207,217,99 Speedmart,KK Super Mart,1.0
+207,222,99 Speedmart,Family Mart,1.0
+208,228,99 Speedmart,7-Eleven,1.0
+208,217,99 Speedmart,KK Super Mart,1.0
+208,232,99 Speedmart,7-Eleven,1.0
+208,215,99 Speedmart,KK Super Mart,1.0
+209,234,99 Speedmart,7-Eleven,1.0
+209,441,99 Speedmart,99 Speedmart,0.5
+209,239,99 Speedmart,CU,1.0
+209,235,99 Speedmart,7-Eleven,1.0
+209,440,99 Speedmart,99 Speedmart,0.5
+209,231,99 Speedmart,7-Eleven,1.0
+209,218,99 Speedmart,KK Super Mart,1.0
+210,211,99 Speedmart,99 Speedmart,0.5
+210,233,99 Speedmart,7-Eleven,1.0
+210,388,99 Speedmart,99 Speedmart,0.5
+210,385,99 Speedmart,99 Speedmart,0.5
+210,397,99 Speedmart,KK Super Mart,1.0
+210,402,99 Speedmart,KK Super Mart,1.0
+211,212,99 Speedmart,99 Speedmart,0.5
+211,441,99 Speedmart,99 Speedmart,0.5
+211,233,99 Speedmart,7-Eleven,1.0
+211,234,99 Speedmart,7-Eleven,1.0
+211,397,99 Speedmart,KK Super Mart,1.0
+212,443,99 Speedmart,99 Speedmart,0.5
+212,442,99 Speedmart,99 Speedmart,0.5
+212,444,99 Speedmart,99 Speedmart,0.5
+212,441,99 Speedmart,99 Speedmart,0.5
+212,233,99 Speedmart,7-Eleven,1.0
+212,417,99 Speedmart,7-Eleven,1.0
+213,227,KK Super Mart,7-Eleven,1.0
+214,229,KK Super Mart,7-Eleven,1.0
+214,222,KK Super Mart,Family Mart,1.0
+215,237,KK Super Mart,MyNews,1.0
+215,224,KK Super Mart,7-Eleven,1.0
+215,404,KK Super Mart,Family Mart,1.0
+215,232,KK Super Mart,7-Eleven,1.0
+216,414,KK Super Mart,7-Eleven,1.0
+216,413,KK Super Mart,7-Eleven,1.0
+216,384,KK Super Mart,99 Speedmart,1.0
+216,229,KK Super Mart,7-Eleven,1.0
+216,222,KK Super Mart,Family Mart,1.0
+216,228,KK Super Mart,7-Eleven,1.0
+216,404,KK Super Mart,Family Mart,1.0
+217,222,KK Super Mart,Family Mart,1.0
+217,228,KK Super Mart,7-Eleven,1.0
+217,232,KK Super Mart,7-Eleven,1.0
+218,234,KK Super Mart,7-Eleven,1.0
+219,235,KK Super Mart,7-Eleven,1.0
+219,435,KK Super Mart,99 Speedmart,1.0
+219,436,KK Super Mart,99 Speedmart,1.0
+219,480,KK Super Mart,7-Eleven,1.0
+219,223,KK Super Mart,Family Mart,1.0
+220,236,Family Mart,MyNews,1.0
+220,225,Family Mart,7-Eleven,1.0
+221,398,Family Mart,KK Super Mart,1.0
+221,230,Family Mart,7-Eleven,1.0
+221,225,Family Mart,7-Eleven,1.0
+221,226,Family Mart,7-Eleven,1.0
+221,237,Family Mart,MyNews,1.0
+221,238,Family Mart,CU,1.0
+222,229,Family Mart,7-Eleven,1.0
+222,228,Family Mart,7-Eleven,1.0
+223,480,Family Mart,7-Eleven,1.0
+223,239,Family Mart,CU,1.0
+223,235,Family Mart,7-Eleven,1.0
+224,237,7-Eleven,MyNews,1.0
+224,404,7-Eleven,Family Mart,1.0
+224,238,7-Eleven,CU,1.0
+225,236,7-Eleven,MyNews,1.0
+225,230,7-Eleven,7-Eleven,0.5
+226,230,7-Eleven,7-Eleven,0.5
+227,230,7-Eleven,7-Eleven,0.5
+229,413,7-Eleven,7-Eleven,0.5
+230,236,7-Eleven,MyNews,1.0
+231,235,7-Eleven,7-Eleven,0.5
+233,426,7-Eleven,7-Eleven,0.5
+233,417,7-Eleven,7-Eleven,0.5
+233,402,7-Eleven,KK Super Mart,1.0
+234,441,7-Eleven,99 Speedmart,1.0
+234,397,7-Eleven,KK Super Mart,1.0
+235,478,7-Eleven,7-Eleven,0.5
+235,435,7-Eleven,99 Speedmart,1.0
+235,239,7-Eleven,CU,1.0
+237,238,MyNews,CU,1.0
+238,376,CU,99 Speedmart,1.0
+238,398,CU,KK Super Mart,1.0
+238,404,CU,Family Mart,1.0
+239,440,CU,99 Speedmart,1.0
+239,480,CU,7-Eleven,1.0
+240,284,99 Speedmart,CU,1.0
+240,262,99 Speedmart,KK Super Mart,1.0
+240,272,99 Speedmart,7-Eleven,1.0
+240,261,99 Speedmart,KK Super Mart,1.0
+241,262,99 Speedmart,KK Super Mart,1.0
+241,275,99 Speedmart,7-Eleven,1.0
+242,272,99 Speedmart,7-Eleven,1.0
+242,276,99 Speedmart,7-Eleven,1.0
+242,284,99 Speedmart,CU,1.0
+242,244,99 Speedmart,99 Speedmart,0.5
+242,262,99 Speedmart,KK Super Mart,1.0
+243,271,99 Speedmart,7-Eleven,1.0
+243,261,99 Speedmart,KK Super Mart,1.0
+244,284,99 Speedmart,CU,1.0
+244,262,99 Speedmart,KK Super Mart,1.0
+245,246,99 Speedmart,99 Speedmart,0.5
+245,276,99 Speedmart,7-Eleven,1.0
+245,272,99 Speedmart,7-Eleven,1.0
+245,271,99 Speedmart,7-Eleven,1.0
+245,261,99 Speedmart,KK Super Mart,1.0
+246,264,99 Speedmart,KK Super Mart,1.0
+246,276,99 Speedmart,7-Eleven,1.0
+246,267,99 Speedmart,7-Eleven,1.0
+247,264,99 Speedmart,KK Super Mart,1.0
+247,274,99 Speedmart,7-Eleven,1.0
+247,277,99 Speedmart,7-Eleven,1.0
+247,267,99 Speedmart,7-Eleven,1.0
+248,277,99 Speedmart,7-Eleven,1.0
+248,250,99 Speedmart,99 Speedmart,0.5
+248,273,99 Speedmart,7-Eleven,1.0
+248,267,99 Speedmart,7-Eleven,1.0
+248,263,99 Speedmart,KK Super Mart,1.0
+249,250,99 Speedmart,99 Speedmart,0.5
+249,274,99 Speedmart,7-Eleven,1.0
+249,277,99 Speedmart,7-Eleven,1.0
+250,277,99 Speedmart,7-Eleven,1.0
+250,273,99 Speedmart,7-Eleven,1.0
+251,283,99 Speedmart,7-Eleven,1.0
+251,258,99 Speedmart,99 Speedmart,0.5
+251,255,99 Speedmart,99 Speedmart,0.5
+251,257,99 Speedmart,99 Speedmart,0.5
+251,270,99 Speedmart,Family Mart,1.0
+251,282,99 Speedmart,7-Eleven,1.0
+251,281,99 Speedmart,7-Eleven,1.0
+251,280,99 Speedmart,7-Eleven,1.0
+251,259,99 Speedmart,99 Speedmart,0.5
+252,257,99 Speedmart,99 Speedmart,0.5
+252,306,99 Speedmart,99 Speedmart,0.5
+252,320,99 Speedmart,7-Eleven,1.0
+252,268,99 Speedmart,Family Mart,1.0
+253,266,99 Speedmart,KK Super Mart,1.0
+253,279,99 Speedmart,7-Eleven,1.0
+253,258,99 Speedmart,99 Speedmart,0.5
+253,333,99 Speedmart,7-Eleven,1.0
+253,256,99 Speedmart,99 Speedmart,0.5
+253,265,99 Speedmart,KK Super Mart,1.0
+254,255,99 Speedmart,99 Speedmart,0.5
+254,257,99 Speedmart,99 Speedmart,0.5
+254,268,99 Speedmart,Family Mart,1.0
+254,320,99 Speedmart,7-Eleven,1.0
+254,307,99 Speedmart,99 Speedmart,0.5
+254,327,99 Speedmart,7-Eleven,1.0
+255,257,99 Speedmart,99 Speedmart,0.5
+255,269,99 Speedmart,Family Mart,1.0
+255,278,99 Speedmart,7-Eleven,1.0
+255,335,99 Speedmart,7-Eleven,1.0
+255,327,99 Speedmart,7-Eleven,1.0
+255,280,99 Speedmart,7-Eleven,1.0
+256,333,99 Speedmart,7-Eleven,1.0
+256,308,99 Speedmart,99 Speedmart,0.5
+256,334,99 Speedmart,7-Eleven,1.0
+256,335,99 Speedmart,7-Eleven,1.0
+256,265,99 Speedmart,KK Super Mart,1.0
+256,269,99 Speedmart,Family Mart,1.0
+256,285,99 Speedmart,CU,1.0
+256,278,99 Speedmart,7-Eleven,1.0
+256,259,99 Speedmart,99 Speedmart,0.5
+257,268,99 Speedmart,Family Mart,1.0
+258,283,99 Speedmart,7-Eleven,1.0
+258,260,99 Speedmart,99 Speedmart,0.5
+258,266,99 Speedmart,KK Super Mart,1.0
+258,265,99 Speedmart,KK Super Mart,1.0
+258,270,99 Speedmart,Family Mart,1.0
+258,281,99 Speedmart,7-Eleven,1.0
+258,282,99 Speedmart,7-Eleven,1.0
+259,280,99 Speedmart,7-Eleven,1.0
+259,285,99 Speedmart,CU,1.0
+259,265,99 Speedmart,KK Super Mart,1.0
+259,281,99 Speedmart,7-Eleven,1.0
+260,308,99 Speedmart,99 Speedmart,0.5
+260,279,99 Speedmart,7-Eleven,1.0
+260,266,99 Speedmart,KK Super Mart,1.0
+260,333,99 Speedmart,7-Eleven,1.0
+261,271,KK Super Mart,7-Eleven,1.0
+261,272,KK Super Mart,7-Eleven,1.0
+262,284,KK Super Mart,CU,1.0
+262,275,KK Super Mart,7-Eleven,1.0
+263,267,KK Super Mart,7-Eleven,1.0
+264,274,KK Super Mart,7-Eleven,1.0
+264,267,KK Super Mart,7-Eleven,1.0
+265,281,KK Super Mart,7-Eleven,1.0
+266,279,KK Super Mart,7-Eleven,1.0
+267,277,7-Eleven,7-Eleven,0.5
+268,320,Family Mart,7-Eleven,1.0
+269,285,Family Mart,CU,1.0
+269,278,Family Mart,7-Eleven,1.0
+269,280,Family Mart,7-Eleven,1.0
+270,283,Family Mart,7-Eleven,1.0
+270,282,Family Mart,7-Eleven,1.0
+272,276,7-Eleven,7-Eleven,0.5
+272,284,7-Eleven,CU,1.0
+274,277,7-Eleven,7-Eleven,0.5
+278,335,7-Eleven,7-Eleven,0.5
+279,333,7-Eleven,7-Eleven,0.5
+280,285,7-Eleven,CU,1.0
+281,282,7-Eleven,7-Eleven,0.5
+286,331,99 Speedmart,7-Eleven,1.0
+286,317,99 Speedmart,7-Eleven,1.0
+286,324,99 Speedmart,7-Eleven,1.0
+286,288,99 Speedmart,99 Speedmart,0.5
+287,324,99 Speedmart,7-Eleven,1.0
+287,295,99 Speedmart,99 Speedmart,0.5
+287,314,99 Speedmart,Family Mart,1.0
+288,331,99 Speedmart,7-Eleven,1.0
+288,317,99 Speedmart,7-Eleven,1.0
+288,290,99 Speedmart,99 Speedmart,0.5
+289,293,99 Speedmart,99 Speedmart,0.5
+289,299,99 Speedmart,99 Speedmart,0.5
+289,331,99 Speedmart,7-Eleven,1.0
+289,301,99 Speedmart,99 Speedmart,0.5
+290,323,99 Speedmart,7-Eleven,1.0
+290,295,99 Speedmart,99 Speedmart,0.5
+290,331,99 Speedmart,7-Eleven,1.0
+290,291,99 Speedmart,KK Super Mart,1.0
+290,316,99 Speedmart,7-Eleven,1.0
+290,317,99 Speedmart,7-Eleven,1.0
+291,295,KK Super Mart,99 Speedmart,1.0
+291,316,KK Super Mart,7-Eleven,1.0
+291,337,KK Super Mart,CU,1.0
+292,301,99 Speedmart,99 Speedmart,0.5
+292,297,99 Speedmart,99 Speedmart,0.5
+292,300,99 Speedmart,99 Speedmart,0.5
+293,299,99 Speedmart,99 Speedmart,0.5
+293,331,99 Speedmart,7-Eleven,1.0
+293,323,99 Speedmart,7-Eleven,1.0
+293,312,99 Speedmart,KK Super Mart,1.0
+293,294,99 Speedmart,99 Speedmart,0.5
+293,322,99 Speedmart,7-Eleven,1.0
+293,310,99 Speedmart,KK Super Mart,1.0
+294,312,99 Speedmart,KK Super Mart,1.0
+294,321,99 Speedmart,7-Eleven,1.0
+294,319,99 Speedmart,7-Eleven,1.0
+294,322,99 Speedmart,7-Eleven,1.0
+294,310,99 Speedmart,KK Super Mart,1.0
+295,323,99 Speedmart,7-Eleven,1.0
+295,524,99 Speedmart,7-Eleven,1.0
+295,523,99 Speedmart,7-Eleven,1.0
+295,516,99 Speedmart,99 Speedmart,0.5
+295,314,99 Speedmart,Family Mart,1.0
+295,337,99 Speedmart,CU,1.0
+296,332,99 Speedmart,7-Eleven,1.0
+296,325,99 Speedmart,7-Eleven,1.0
+296,303,99 Speedmart,99 Speedmart,0.5
+296,300,99 Speedmart,99 Speedmart,0.5
+296,318,99 Speedmart,7-Eleven,1.0
+297,301,99 Speedmart,99 Speedmart,0.5
+297,311,99 Speedmart,KK Super Mart,1.0
+297,300,99 Speedmart,99 Speedmart,0.5
+298,332,99 Speedmart,7-Eleven,1.0
+298,325,99 Speedmart,7-Eleven,1.0
+298,307,99 Speedmart,99 Speedmart,0.5
+298,326,99 Speedmart,7-Eleven,1.0
+298,330,99 Speedmart,7-Eleven,1.0
+298,309,99 Speedmart,99 Speedmart,0.5
+299,301,99 Speedmart,99 Speedmart,0.5
+299,321,99 Speedmart,7-Eleven,1.0
+299,312,99 Speedmart,KK Super Mart,1.0
+300,325,99 Speedmart,7-Eleven,1.0
+300,311,99 Speedmart,KK Super Mart,1.0
+300,318,99 Speedmart,7-Eleven,1.0
+300,304,99 Speedmart,99 Speedmart,0.5
+301,321,99 Speedmart,7-Eleven,1.0
+301,303,99 Speedmart,99 Speedmart,0.5
+301,311,99 Speedmart,KK Super Mart,1.0
+302,330,99 Speedmart,7-Eleven,1.0
+302,332,99 Speedmart,7-Eleven,1.0
+302,313,99 Speedmart,KK Super Mart,1.0
+302,315,99 Speedmart,Family Mart,1.0
+302,328,99 Speedmart,7-Eleven,1.0
+302,329,99 Speedmart,7-Eleven,1.0
+303,308,99 Speedmart,99 Speedmart,0.5
+303,321,99 Speedmart,7-Eleven,1.0
+303,323,99 Speedmart,7-Eleven,1.0
+303,332,99 Speedmart,7-Eleven,1.0
+303,338,99 Speedmart,CU,1.0
+303,311,99 Speedmart,KK Super Mart,1.0
+303,319,99 Speedmart,7-Eleven,1.0
+303,305,99 Speedmart,99 Speedmart,0.5
+303,318,99 Speedmart,7-Eleven,1.0
+303,304,99 Speedmart,99 Speedmart,0.5
+304,311,99 Speedmart,KK Super Mart,1.0
+304,318,99 Speedmart,7-Eleven,1.0
+305,328,99 Speedmart,7-Eleven,1.0
+305,336,99 Speedmart,MyNews,1.0
+305,338,99 Speedmart,CU,1.0
+305,308,99 Speedmart,99 Speedmart,0.5
+306,320,99 Speedmart,7-Eleven,1.0
+306,326,99 Speedmart,7-Eleven,1.0
+306,307,99 Speedmart,99 Speedmart,0.5
+307,326,99 Speedmart,7-Eleven,1.0
+307,320,99 Speedmart,7-Eleven,1.0
+307,327,99 Speedmart,7-Eleven,1.0
+307,309,99 Speedmart,99 Speedmart,0.5
+308,333,99 Speedmart,7-Eleven,1.0
+308,334,99 Speedmart,7-Eleven,1.0
+308,328,99 Speedmart,7-Eleven,1.0
+309,330,99 Speedmart,7-Eleven,1.0
+309,334,99 Speedmart,7-Eleven,1.0
+309,327,99 Speedmart,7-Eleven,1.0
+310,322,KK Super Mart,7-Eleven,1.0
+312,321,KK Super Mart,7-Eleven,1.0
+313,336,KK Super Mart,MyNews,1.0
+313,315,KK Super Mart,Family Mart,1.0
+313,338,KK Super Mart,CU,1.0
+313,329,KK Super Mart,7-Eleven,1.0
+314,324,Family Mart,7-Eleven,1.0
+314,316,Family Mart,7-Eleven,1.0
+314,337,Family Mart,CU,1.0
+315,328,Family Mart,7-Eleven,1.0
+315,336,Family Mart,MyNews,1.0
+316,317,7-Eleven,7-Eleven,0.5
+316,324,7-Eleven,7-Eleven,0.5
+316,337,7-Eleven,CU,1.0
+317,324,7-Eleven,7-Eleven,0.5
+319,321,7-Eleven,7-Eleven,0.5
+319,323,7-Eleven,7-Eleven,0.5
+319,322,7-Eleven,7-Eleven,0.5
+322,323,7-Eleven,7-Eleven,0.5
+323,331,7-Eleven,7-Eleven,0.5
+323,523,7-Eleven,7-Eleven,0.5
+325,332,7-Eleven,7-Eleven,0.5
+327,334,7-Eleven,7-Eleven,0.5
+327,335,7-Eleven,7-Eleven,0.5
+328,336,7-Eleven,MyNews,1.0
+328,334,7-Eleven,7-Eleven,0.5
+328,330,7-Eleven,7-Eleven,0.5
+329,338,7-Eleven,CU,1.0
+329,332,7-Eleven,7-Eleven,0.5
+330,334,7-Eleven,7-Eleven,0.5
+330,332,7-Eleven,7-Eleven,0.5
+332,338,7-Eleven,CU,1.0
+334,335,7-Eleven,7-Eleven,0.5
+336,338,MyNews,CU,1.0
+339,341,99 Speedmart,99 Speedmart,0.5
+339,360,99 Speedmart,7-Eleven,1.0
+339,361,99 Speedmart,7-Eleven,1.0
+339,362,99 Speedmart,7-Eleven,1.0
+340,342,99 Speedmart,99 Speedmart,0.5
+340,355,99 Speedmart,Family Mart,1.0
+341,360,99 Speedmart,7-Eleven,1.0
+341,362,99 Speedmart,7-Eleven,1.0
+342,427,99 Speedmart,MyNews,1.0
+342,345,99 Speedmart,99 Speedmart,0.5
+342,359,99 Speedmart,Family Mart,1.0
+342,363,99 Speedmart,7-Eleven,1.0
+342,355,99 Speedmart,Family Mart,1.0
+343,366,99 Speedmart,7-Eleven,1.0
+343,380,99 Speedmart,99 Speedmart,0.5
+343,370,99 Speedmart,7-Eleven,1.0
+343,349,99 Speedmart,KK Super Mart,1.0
+343,371,99 Speedmart,7-Eleven,1.0
+344,347,99 Speedmart,99 Speedmart,0.5
+344,353,99 Speedmart,KK Super Mart,1.0
+344,369,99 Speedmart,7-Eleven,1.0
+344,364,99 Speedmart,7-Eleven,1.0
+344,348,99 Speedmart,99 Speedmart,0.5
+344,359,99 Speedmart,Family Mart,1.0
+345,427,99 Speedmart,MyNews,1.0
+345,382,99 Speedmart,99 Speedmart,0.5
+345,367,99 Speedmart,7-Eleven,1.0
+345,424,99 Speedmart,7-Eleven,1.0
+345,355,99 Speedmart,Family Mart,1.0
+345,349,99 Speedmart,KK Super Mart,1.0
+346,358,99 Speedmart,Family Mart,1.0
+346,347,99 Speedmart,99 Speedmart,0.5
+346,369,99 Speedmart,7-Eleven,1.0
+346,368,99 Speedmart,7-Eleven,1.0
+346,350,99 Speedmart,KK Super Mart,1.0
+347,358,99 Speedmart,Family Mart,1.0
+347,353,99 Speedmart,KK Super Mart,1.0
+347,369,99 Speedmart,7-Eleven,1.0
+348,427,99 Speedmart,MyNews,1.0
+348,359,99 Speedmart,Family Mart,1.0
+348,369,99 Speedmart,7-Eleven,1.0
+348,372,99 Speedmart,CU,1.0
+348,354,99 Speedmart,KK Super Mart,1.0
+348,357,99 Speedmart,Family Mart,1.0
+349,367,KK Super Mart,7-Eleven,1.0
+349,355,KK Super Mart,Family Mart,1.0
+349,370,KK Super Mart,7-Eleven,1.0
+349,371,KK Super Mart,7-Eleven,1.0
+350,358,KK Super Mart,Family Mart,1.0
+350,368,KK Super Mart,7-Eleven,1.0
+350,352,KK Super Mart,KK Super Mart,0.5
+350,372,KK Super Mart,CU,1.0
+351,363,KK Super Mart,7-Eleven,1.0
+351,356,KK Super Mart,Family Mart,1.0
+351,365,KK Super Mart,7-Eleven,1.0
+351,359,KK Super Mart,Family Mart,1.0
+351,360,KK Super Mart,7-Eleven,1.0
+352,372,KK Super Mart,CU,1.0
+352,358,KK Super Mart,Family Mart,1.0
+353,364,KK Super Mart,7-Eleven,1.0
+353,362,KK Super Mart,7-Eleven,1.0
+353,361,KK Super Mart,7-Eleven,1.0
+354,369,KK Super Mart,7-Eleven,1.0
+354,368,KK Super Mart,7-Eleven,1.0
+354,357,KK Super Mart,Family Mart,1.0
+355,366,Family Mart,7-Eleven,1.0
+355,371,Family Mart,7-Eleven,1.0
+356,363,Family Mart,7-Eleven,1.0
+356,359,Family Mart,Family Mart,0.5
+357,372,Family Mart,CU,1.0
+357,368,Family Mart,7-Eleven,1.0
+359,427,Family Mart,MyNews,1.0
+359,365,Family Mart,7-Eleven,1.0
+359,364,Family Mart,7-Eleven,1.0
+359,363,Family Mart,7-Eleven,1.0
+360,364,7-Eleven,7-Eleven,0.5
+360,362,7-Eleven,7-Eleven,0.5
+360,365,7-Eleven,7-Eleven,0.5
+360,363,7-Eleven,7-Eleven,0.5
+361,362,7-Eleven,7-Eleven,0.5
+362,364,7-Eleven,7-Eleven,0.5
+364,365,7-Eleven,7-Eleven,0.5
+366,371,7-Eleven,7-Eleven,0.5
+367,382,7-Eleven,99 Speedmart,1.0
+367,394,7-Eleven,KK Super Mart,1.0
+367,370,7-Eleven,7-Eleven,0.5
+368,369,7-Eleven,7-Eleven,0.5
+368,372,7-Eleven,CU,1.0
+370,380,7-Eleven,99 Speedmart,1.0
+370,394,7-Eleven,KK Super Mart,1.0
+372,427,CU,MyNews,1.0
+373,407,99 Speedmart,7-Eleven,1.0
+373,383,99 Speedmart,99 Speedmart,0.5
+373,396,99 Speedmart,KK Super Mart,1.0
+373,403,99 Speedmart,Family Mart,1.0
+374,376,99 Speedmart,99 Speedmart,0.5
+374,378,99 Speedmart,99 Speedmart,0.5
+374,377,99 Speedmart,99 Speedmart,0.5
+374,408,99 Speedmart,7-Eleven,1.0
+374,375,99 Speedmart,99 Speedmart,0.5
+375,376,99 Speedmart,99 Speedmart,0.5
+375,408,99 Speedmart,7-Eleven,1.0
+376,398,99 Speedmart,KK Super Mart,1.0
+376,404,99 Speedmart,Family Mart,1.0
+376,378,99 Speedmart,99 Speedmart,0.5
+377,380,99 Speedmart,99 Speedmart,0.5
+377,411,99 Speedmart,7-Eleven,1.0
+377,379,99 Speedmart,99 Speedmart,0.5
+377,378,99 Speedmart,99 Speedmart,0.5
+378,379,99 Speedmart,99 Speedmart,0.5
+378,412,99 Speedmart,7-Eleven,1.0
+378,404,99 Speedmart,Family Mart,1.0
+379,412,99 Speedmart,7-Eleven,1.0
+379,421,99 Speedmart,7-Eleven,1.0
+379,411,99 Speedmart,7-Eleven,1.0
+379,418,99 Speedmart,7-Eleven,1.0
+379,401,99 Speedmart,KK Super Mart,1.0
+379,433,99 Speedmart,CU,1.0
+379,410,99 Speedmart,7-Eleven,1.0
+380,411,99 Speedmart,7-Eleven,1.0
+380,390,99 Speedmart,99 Speedmart,0.5
+380,394,99 Speedmart,KK Super Mart,1.0
+380,395,99 Speedmart,KK Super Mart,1.0
+381,424,99 Speedmart,7-Eleven,1.0
+381,427,99 Speedmart,MyNews,1.0
+381,429,99 Speedmart,MyNews,1.0
+381,423,99 Speedmart,7-Eleven,1.0
+381,396,99 Speedmart,KK Super Mart,1.0
+381,428,99 Speedmart,MyNews,1.0
+382,394,99 Speedmart,KK Super Mart,1.0
+382,424,99 Speedmart,7-Eleven,1.0
+382,416,99 Speedmart,7-Eleven,1.0
+383,525,99 Speedmart,MyNews,1.0
+383,407,99 Speedmart,7-Eleven,1.0
+383,403,99 Speedmart,Family Mart,1.0
+384,414,99 Speedmart,7-Eleven,1.0
+384,415,99 Speedmart,7-Eleven,1.0
+384,412,99 Speedmart,7-Eleven,1.0
+384,421,99 Speedmart,7-Eleven,1.0
+384,404,99 Speedmart,Family Mart,1.0
+385,432,99 Speedmart,MyNews,1.0
+385,388,99 Speedmart,99 Speedmart,0.5
+385,415,99 Speedmart,7-Eleven,1.0
+385,397,99 Speedmart,KK Super Mart,1.0
+385,414,99 Speedmart,7-Eleven,1.0
+385,399,99 Speedmart,KK Super Mart,1.0
+386,419,99 Speedmart,7-Eleven,1.0
+386,389,99 Speedmart,99 Speedmart,0.5
+386,417,99 Speedmart,7-Eleven,1.0
+386,426,99 Speedmart,7-Eleven,1.0
+386,420,99 Speedmart,7-Eleven,1.0
+386,425,99 Speedmart,7-Eleven,1.0
+386,400,99 Speedmart,KK Super Mart,1.0
+387,431,99 Speedmart,MyNews,1.0
+387,405,99 Speedmart,Family Mart,1.0
+387,409,99 Speedmart,7-Eleven,1.0
+387,432,99 Speedmart,MyNews,1.0
+387,420,99 Speedmart,7-Eleven,1.0
+388,432,99 Speedmart,MyNews,1.0
+388,402,99 Speedmart,KK Super Mart,1.0
+388,426,99 Speedmart,7-Eleven,1.0
+388,400,99 Speedmart,KK Super Mart,1.0
+389,393,99 Speedmart,99 Speedmart,0.5
+389,472,99 Speedmart,7-Eleven,1.0
+389,419,99 Speedmart,7-Eleven,1.0
+389,417,99 Speedmart,7-Eleven,1.0
+390,411,99 Speedmart,7-Eleven,1.0
+390,422,99 Speedmart,7-Eleven,1.0
+390,406,99 Speedmart,Family Mart,1.0
+390,392,99 Speedmart,99 Speedmart,0.5
+390,401,99 Speedmart,KK Super Mart,1.0
+390,395,99 Speedmart,KK Super Mart,1.0
+391,418,99 Speedmart,7-Eleven,1.0
+391,409,99 Speedmart,7-Eleven,1.0
+391,422,99 Speedmart,7-Eleven,1.0
+391,392,99 Speedmart,99 Speedmart,0.5
+391,406,99 Speedmart,Family Mart,1.0
+391,420,99 Speedmart,7-Eleven,1.0
+392,505,99 Speedmart,MyNews,1.0
+392,472,99 Speedmart,7-Eleven,1.0
+392,419,99 Speedmart,7-Eleven,1.0
+392,422,99 Speedmart,7-Eleven,1.0
+392,420,99 Speedmart,7-Eleven,1.0
+393,472,99 Speedmart,7-Eleven,1.0
+393,446,99 Speedmart,99 Speedmart,0.5
+393,444,99 Speedmart,99 Speedmart,0.5
+393,417,99 Speedmart,7-Eleven,1.0
+394,395,KK Super Mart,KK Super Mart,0.5
+394,416,KK Super Mart,7-Eleven,1.0
+395,424,KK Super Mart,7-Eleven,1.0
+395,429,KK Super Mart,MyNews,1.0
+395,416,KK Super Mart,7-Eleven,1.0
+396,423,KK Super Mart,7-Eleven,1.0
+396,429,KK Super Mart,MyNews,1.0
+396,525,KK Super Mart,MyNews,1.0
+396,407,KK Super Mart,7-Eleven,1.0
+396,403,KK Super Mart,Family Mart,1.0
+396,430,KK Super Mart,MyNews,1.0
+397,413,KK Super Mart,7-Eleven,1.0
+397,414,KK Super Mart,7-Eleven,1.0
+399,414,KK Super Mart,7-Eleven,1.0
+399,415,KK Super Mart,7-Eleven,1.0
+400,426,KK Super Mart,7-Eleven,1.0
+400,425,KK Super Mart,7-Eleven,1.0
+400,432,KK Super Mart,MyNews,1.0
+401,406,KK Super Mart,Family Mart,1.0
+401,411,KK Super Mart,7-Eleven,1.0
+401,418,KK Super Mart,7-Eleven,1.0
+401,410,KK Super Mart,7-Eleven,1.0
+402,426,KK Super Mart,7-Eleven,1.0
+403,430,Family Mart,MyNews,1.0
+404,412,Family Mart,7-Eleven,1.0
+405,418,Family Mart,7-Eleven,1.0
+405,409,Family Mart,7-Eleven,1.0
+405,431,Family Mart,MyNews,1.0
+406,422,Family Mart,7-Eleven,1.0
+406,418,Family Mart,7-Eleven,1.0
+407,525,7-Eleven,MyNews,1.0
+409,418,7-Eleven,7-Eleven,0.5
+409,420,7-Eleven,7-Eleven,0.5
+410,433,7-Eleven,CU,1.0
+410,411,7-Eleven,7-Eleven,0.5
+411,433,7-Eleven,CU,1.0
+412,421,7-Eleven,7-Eleven,0.5
+413,414,7-Eleven,7-Eleven,0.5
+414,415,7-Eleven,7-Eleven,0.5
+415,432,7-Eleven,MyNews,1.0
+415,421,7-Eleven,7-Eleven,0.5
+416,424,7-Eleven,7-Eleven,0.5
+417,426,7-Eleven,7-Eleven,0.5
+417,444,7-Eleven,99 Speedmart,1.0
+418,421,7-Eleven,7-Eleven,0.5
+418,431,7-Eleven,MyNews,1.0
+419,472,7-Eleven,7-Eleven,0.5
+419,420,7-Eleven,7-Eleven,0.5
+420,432,7-Eleven,MyNews,1.0
+420,425,7-Eleven,7-Eleven,0.5
+421,431,7-Eleven,MyNews,1.0
+421,432,7-Eleven,MyNews,1.0
+423,428,7-Eleven,MyNews,1.0
+423,430,7-Eleven,MyNews,1.0
+424,427,7-Eleven,MyNews,1.0
+424,429,7-Eleven,MyNews,1.0
+425,432,7-Eleven,MyNews,1.0
+427,428,MyNews,MyNews,0.5
+428,430,MyNews,MyNews,0.5
+429,525,MyNews,MyNews,0.5
+431,432,MyNews,MyNews,0.5
+434,439,99 Speedmart,99 Speedmart,0.5
+434,436,99 Speedmart,99 Speedmart,0.5
+434,435,99 Speedmart,99 Speedmart,0.5
+434,478,99 Speedmart,7-Eleven,1.0
+434,461,99 Speedmart,KK Super Mart,1.0
+435,436,99 Speedmart,99 Speedmart,0.5
+435,478,99 Speedmart,7-Eleven,1.0
+436,463,99 Speedmart,KK Super Mart,1.0
+436,454,99 Speedmart,99 Speedmart,0.5
+436,441,99 Speedmart,99 Speedmart,0.5
+436,455,99 Speedmart,99 Speedmart,0.5
+436,487,99 Speedmart,7-Eleven,1.0
+436,480,99 Speedmart,7-Eleven,1.0
+436,464,99 Speedmart,KK Super Mart,1.0
+436,440,99 Speedmart,99 Speedmart,0.5
+436,461,99 Speedmart,KK Super Mart,1.0
+436,438,99 Speedmart,99 Speedmart,0.5
+437,462,99 Speedmart,KK Super Mart,1.0
+437,515,99 Speedmart,99 Speedmart,0.5
+437,454,99 Speedmart,99 Speedmart,0.5
+437,463,99 Speedmart,KK Super Mart,1.0
+437,488,99 Speedmart,7-Eleven,1.0
+438,503,99 Speedmart,MyNews,1.0
+438,470,99 Speedmart,Family Mart,1.0
+438,515,99 Speedmart,99 Speedmart,0.5
+438,479,99 Speedmart,7-Eleven,1.0
+438,461,99 Speedmart,KK Super Mart,1.0
+438,463,99 Speedmart,KK Super Mart,1.0
+438,481,99 Speedmart,7-Eleven,1.0
+439,470,99 Speedmart,Family Mart,1.0
+439,479,99 Speedmart,7-Eleven,1.0
+439,461,99 Speedmart,KK Super Mart,1.0
+440,480,99 Speedmart,7-Eleven,1.0
+440,441,99 Speedmart,99 Speedmart,0.5
+441,490,99 Speedmart,7-Eleven,1.0
+441,442,99 Speedmart,99 Speedmart,0.5
+441,455,99 Speedmart,99 Speedmart,0.5
+442,443,99 Speedmart,99 Speedmart,0.5
+442,445,99 Speedmart,99 Speedmart,0.5
+442,490,99 Speedmart,7-Eleven,1.0
+442,495,99 Speedmart,7-Eleven,1.0
+443,445,99 Speedmart,99 Speedmart,0.5
+443,514,99 Speedmart,CU,1.0
+443,484,99 Speedmart,7-Eleven,1.0
+443,444,99 Speedmart,99 Speedmart,0.5
+444,446,99 Speedmart,99 Speedmart,0.5
+444,484,99 Speedmart,7-Eleven,1.0
+444,471,99 Speedmart,Family Mart,1.0
+445,514,99 Speedmart,CU,1.0
+445,458,99 Speedmart,99 Speedmart,0.5
+445,494,99 Speedmart,7-Eleven,1.0
+445,495,99 Speedmart,7-Eleven,1.0
+446,472,99 Speedmart,7-Eleven,1.0
+446,514,99 Speedmart,CU,1.0
+446,484,99 Speedmart,7-Eleven,1.0
+446,471,99 Speedmart,Family Mart,1.0
+446,477,99 Speedmart,CU,1.0
+446,447,99 Speedmart,99 Speedmart,0.5
+446,469,99 Speedmart,Family Mart,1.0
+447,514,99 Speedmart,CU,1.0
+447,469,99 Speedmart,Family Mart,1.0
+447,492,99 Speedmart,7-Eleven,1.0
+447,501,99 Speedmart,7-Eleven,1.0
+447,476,99 Speedmart,7-Eleven,1.0
+447,448,99 Speedmart,99 Speedmart,0.5
+447,482,99 Speedmart,7-Eleven,1.0
+447,507,99 Speedmart,MyNews,1.0
+448,501,99 Speedmart,7-Eleven,1.0
+448,491,99 Speedmart,7-Eleven,1.0
+448,497,99 Speedmart,7-Eleven,1.0
+448,449,99 Speedmart,99 Speedmart,0.5
+448,507,99 Speedmart,MyNews,1.0
+449,513,99 Speedmart,MyNews,1.0
+449,489,99 Speedmart,7-Eleven,1.0
+449,452,99 Speedmart,99 Speedmart,0.5
+449,497,99 Speedmart,7-Eleven,1.0
+449,457,99 Speedmart,99 Speedmart,0.5
+449,496,99 Speedmart,7-Eleven,1.0
+449,482,99 Speedmart,7-Eleven,1.0
+449,507,99 Speedmart,MyNews,1.0
+450,504,99 Speedmart,MyNews,1.0
+450,505,99 Speedmart,MyNews,1.0
+450,502,99 Speedmart,7-Eleven,1.0
+450,498,99 Speedmart,7-Eleven,1.0
+450,451,99 Speedmart,99 Speedmart,0.5
+451,508,99 Speedmart,MyNews,1.0
+451,460,99 Speedmart,99 Speedmart,0.5
+451,504,99 Speedmart,MyNews,1.0
+451,475,99 Speedmart,Family Mart,1.0
+451,498,99 Speedmart,7-Eleven,1.0
+452,453,99 Speedmart,99 Speedmart,0.5
+452,491,99 Speedmart,7-Eleven,1.0
+452,513,99 Speedmart,MyNews,1.0
+452,512,99 Speedmart,MyNews,1.0
+452,497,99 Speedmart,7-Eleven,1.0
+452,493,99 Speedmart,7-Eleven,1.0
+453,491,99 Speedmart,7-Eleven,1.0
+453,493,99 Speedmart,7-Eleven,1.0
+453,509,99 Speedmart,MyNews,1.0
+453,502,99 Speedmart,7-Eleven,1.0
+453,501,99 Speedmart,7-Eleven,1.0
+454,462,99 Speedmart,KK Super Mart,1.0
+454,486,99 Speedmart,7-Eleven,1.0
+454,499,99 Speedmart,7-Eleven,1.0
+454,463,99 Speedmart,KK Super Mart,1.0
+454,464,99 Speedmart,KK Super Mart,1.0
+455,466,99 Speedmart,KK Super Mart,1.0
+455,465,99 Speedmart,KK Super Mart,1.0
+455,490,99 Speedmart,7-Eleven,1.0
+455,487,99 Speedmart,7-Eleven,1.0
+455,456,99 Speedmart,99 Speedmart,0.5
+456,466,99 Speedmart,KK Super Mart,1.0
+456,490,99 Speedmart,7-Eleven,1.0
+457,489,99 Speedmart,7-Eleven,1.0
+457,496,99 Speedmart,7-Eleven,1.0
+457,468,99 Speedmart,KK Super Mart,1.0
+457,506,99 Speedmart,MyNews,1.0
+458,514,99 Speedmart,CU,1.0
+458,494,99 Speedmart,7-Eleven,1.0
+458,474,99 Speedmart,Family Mart,1.0
+458,467,99 Speedmart,KK Super Mart,1.0
+458,496,99 Speedmart,7-Eleven,1.0
+458,468,99 Speedmart,KK Super Mart,1.0
+458,485,99 Speedmart,7-Eleven,1.0
+459,460,99 Speedmart,99 Speedmart,0.5
+459,520,99 Speedmart,KK Super Mart,1.0
+459,521,99 Speedmart,KK Super Mart,1.0
+459,513,99 Speedmart,MyNews,1.0
+459,519,99 Speedmart,KK Super Mart,1.0
+459,522,99 Speedmart,KK Super Mart,1.0
+460,518,99 Speedmart,99 Speedmart,0.5
+460,512,99 Speedmart,MyNews,1.0
+460,511,99 Speedmart,MyNews,1.0
+460,475,99 Speedmart,Family Mart,1.0
+460,520,99 Speedmart,KK Super Mart,1.0
+460,513,99 Speedmart,MyNews,1.0
+461,479,KK Super Mart,7-Eleven,1.0
+462,486,KK Super Mart,7-Eleven,1.0
+463,488,KK Super Mart,7-Eleven,1.0
+463,481,KK Super Mart,7-Eleven,1.0
+464,487,KK Super Mart,7-Eleven,1.0
+464,500,KK Super Mart,7-Eleven,1.0
+464,499,KK Super Mart,7-Eleven,1.0
+465,500,KK Super Mart,7-Eleven,1.0
+465,466,KK Super Mart,KK Super Mart,0.5
+465,487,KK Super Mart,7-Eleven,1.0
+465,483,KK Super Mart,7-Eleven,1.0
+466,490,KK Super Mart,7-Eleven,1.0
+466,495,KK Super Mart,7-Eleven,1.0
+466,517,KK Super Mart,99 Speedmart,1.0
+466,483,KK Super Mart,7-Eleven,1.0
+467,514,KK Super Mart,CU,1.0
+467,496,KK Super Mart,7-Eleven,1.0
+467,482,KK Super Mart,7-Eleven,1.0
+468,496,KK Super Mart,7-Eleven,1.0
+468,506,KK Super Mart,MyNews,1.0
+468,485,KK Super Mart,7-Eleven,1.0
+469,477,Family Mart,CU,1.0
+469,476,Family Mart,7-Eleven,1.0
+470,515,Family Mart,99 Speedmart,1.0
+470,479,Family Mart,7-Eleven,1.0
+470,503,Family Mart,MyNews,1.0
+471,484,Family Mart,7-Eleven,1.0
+472,505,7-Eleven,MyNews,1.0
+472,502,7-Eleven,7-Eleven,0.5
+472,509,7-Eleven,MyNews,1.0
+472,477,7-Eleven,CU,1.0
+473,495,Family Mart,7-Eleven,1.0
+473,494,Family Mart,7-Eleven,1.0
+473,517,Family Mart,99 Speedmart,1.0
+473,483,Family Mart,7-Eleven,1.0
+474,494,Family Mart,7-Eleven,1.0
+474,489,Family Mart,7-Eleven,1.0
+474,506,Family Mart,MyNews,1.0
+474,485,Family Mart,7-Eleven,1.0
+475,498,Family Mart,7-Eleven,1.0
+475,511,Family Mart,MyNews,1.0
+475,510,Family Mart,MyNews,1.0
+476,492,7-Eleven,7-Eleven,0.5
+476,477,7-Eleven,CU,1.0
+477,509,CU,MyNews,1.0
+477,492,CU,7-Eleven,1.0
+479,503,7-Eleven,MyNews,1.0
+481,488,7-Eleven,7-Eleven,0.5
+481,515,7-Eleven,99 Speedmart,1.0
+482,514,7-Eleven,CU,1.0
+482,496,7-Eleven,7-Eleven,0.5
+482,507,7-Eleven,MyNews,1.0
+483,517,7-Eleven,99 Speedmart,1.0
+483,489,7-Eleven,7-Eleven,0.5
+483,494,7-Eleven,7-Eleven,0.5
+484,514,7-Eleven,CU,1.0
+485,506,7-Eleven,MyNews,1.0
+486,500,7-Eleven,7-Eleven,0.5
+486,499,7-Eleven,7-Eleven,0.5
+487,500,7-Eleven,7-Eleven,0.5
+488,515,7-Eleven,99 Speedmart,1.0
+489,494,7-Eleven,7-Eleven,0.5
+489,506,7-Eleven,MyNews,1.0
+490,495,7-Eleven,7-Eleven,0.5
+491,497,7-Eleven,7-Eleven,0.5
+491,501,7-Eleven,7-Eleven,0.5
+492,509,7-Eleven,MyNews,1.0
+492,501,7-Eleven,7-Eleven,0.5
+493,512,7-Eleven,MyNews,1.0
+493,502,7-Eleven,7-Eleven,0.5
+493,498,7-Eleven,7-Eleven,0.5
+493,510,7-Eleven,MyNews,1.0
+494,495,7-Eleven,7-Eleven,0.5
+495,517,7-Eleven,99 Speedmart,1.0
+498,502,7-Eleven,7-Eleven,0.5
+498,510,7-Eleven,MyNews,1.0
+499,500,7-Eleven,7-Eleven,0.5
+501,509,7-Eleven,MyNews,1.0
+502,505,7-Eleven,MyNews,1.0
+502,509,7-Eleven,MyNews,1.0
+504,505,MyNews,MyNews,0.5
+504,508,MyNews,MyNews,0.5
+505,508,MyNews,MyNews,0.5
+510,512,MyNews,MyNews,0.5
+510,511,MyNews,MyNews,0.5
+511,512,MyNews,MyNews,0.5
+512,513,MyNews,MyNews,0.5
+516,524,99 Speedmart,7-Eleven,1.0
+516,523,99 Speedmart,7-Eleven,1.0
+518,522,99 Speedmart,KK Super Mart,1.0
+518,520,99 Speedmart,KK Super Mart,1.0
+518,519,99 Speedmart,KK Super Mart,1.0
+519,520,KK Super Mart,KK Super Mart,0.5
+519,521,KK Super Mart,KK Super Mart,0.5
+519,522,KK Super Mart,KK Super Mart,0.5
+520,521,KK Super Mart,KK Super Mart,0.5

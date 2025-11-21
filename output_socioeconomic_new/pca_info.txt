@@ -1,0 +1,9 @@
+PCA Analysis Report
+==================================================
+Number of principal components: 3
+Cumulative explained variance: 0.9858
+
+Explained variance ratio of each principal component:
+  PC1: 0.4961
+  PC2: 0.4066
+  PC3: 0.0831
